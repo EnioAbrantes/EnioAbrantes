@@ -3,8 +3,13 @@ title: Portfólio de análises
 email: enio.abrantes.silva@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Análises interessantes sobre os mais diversos assuntos.
+<<<<<<< HEAD
 url: "http://analiseminhanalise.com" # the base hostname & protocol for your site
 twitter_username:
+=======
+baseurl: "/portfolio-analises" # the subpath of your site, e.g. /blog/
+url: "https://enioabrantes.github.io/portfolio-analises/" # the base hostname & protocol for your site
+>>>>>>> c9e6364f047b8dea9826e8a3f71b85c9e284ea35
 github_username:  EnioAbrantes
 permalink: /:year/:month/:title.html
 
