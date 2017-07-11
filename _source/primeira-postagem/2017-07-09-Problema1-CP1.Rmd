@@ -10,7 +10,7 @@ tags: [htmlwidgets, r]
 library(tidyverse) 
 
 # Leitura dos dados das séries.
-dados <- read_csv(file = "../series_from_imdb.csv")
+dados <- read_csv(file = "./series_from_imdb.csv")
 
 #Para iniciar a análise é preciso ver detalhadamente as informações referentes a cada uma das séries. Nos gráficos seguintes veremos diversos gráficos com informações relevante sobre a avaliação dos usuários.
 
